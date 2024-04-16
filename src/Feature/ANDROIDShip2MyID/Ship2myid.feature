@@ -1,5 +1,5 @@
 Feature: Ship2myid login screen
-//
+#i23s
   Background: 
     Given android app is installed on the device and launched successfully
     When android user clicks on login on App Intro screen
